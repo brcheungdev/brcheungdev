@@ -8,7 +8,7 @@
 
 <h2 align="center">Hi there 👋</h2>
 <h2 align="center">I'm brcheung</h2>
-<p align="center">一个热爱探索新技术的 IT 工程师 / Creative developer passionate about new tech</p>
+<p align="center">Creative developer passionate about new tech</p>
 
 ---
 
@@ -24,10 +24,10 @@
 
 ---
 
-<h3 align="center">🔧 My Tech Stack / 技术栏</h3>
+<h3 align="center">🔧 My Tech Stack </h3>
 
 <p align="center">
-<b>💻 Languages & Frameworks / 编程语言与框架</b><br>
+<b>💻 Languages & Frameworks </b><br>
 
 <img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white"/>
@@ -42,7 +42,7 @@
 </p>
 
 <p align="center">
-<b>🚧 Development Tools / 开发工具</b><br>
+<b>🚧 Development Tools </b><br>
 <img src="https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Eclipse-2C2255?logo=eclipseide&logoColor=white"/>
@@ -52,7 +52,7 @@
 </p>
 
 <p align="center">
-<b>🤕 Data Science Tools / 数据科学工具</b><br>
+<b>🤕 Data Science Tools </b><br>
 <img src="https://img.shields.io/badge/-Anaconda-44A833?logo=anaconda&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Colab-F9AB00?logo=googlecolab&logoColor=black"/>
@@ -60,13 +60,13 @@
 
 ---
 
-<h3 align="center">🎯 Goals / 目标</h3>
+<h3 align="center">🎯 Goals </h3>
 
 <p align="center">
 📘 上传课程笔记和研究成果 / Upload course notes & research insights<br>
 🌏 打造个人品牌 / Build personal brand (Blog / Portfolio / LinkedIn)<br>
 📄 投稿 SCI / Submit SCI-level papers<br>
-🧱 联合合作方向 / AI × Web × Map × Medical × Music
+🧱 寻找合作机会 / Seek collaborations in AI × Web × Map × Medical × Music
 </p>
 
 ---
