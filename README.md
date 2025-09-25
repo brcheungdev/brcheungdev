@@ -1,23 +1,27 @@
 <h2 align="center">Hi there 👋</h2>
 <h2 align="center">I'm brcheung</h2>
-<p align="center">一个热爱探索新技术的 IT 工程师 / 创意编程者</p>
+<p align="center">一个热爱探索新技术的 IT 工程师 / Creative developer passionate about new tech</p>
 
 ---
 
 ### 🪄 About Me / 自我介绍
 
-- 🏫 毕业于京都情报大学院大学 M.S in IT
-- 🧠 擅长领域：C / C++ / Java / Python / HTML-CSS / JavaScript / SQL
-- 💡 研究方向：强化学习 + 自适应地图服务、车辆路径调度
-- 📚 正在构建个人作品集 & 准备 SCI 论文
-- 🌏 目前想在日本继续深造 / 工作
+- 🏫 信息技术硕士毕业于京都情报大学院大学  
+  M.S. in IT from Kyoto College of Graduate Studies for Informatics (KCGI)
+- 🧠 擅长领域 / Skilled in:  
+  C / C++ / Java / Python / HTML / CSS / JavaScript / SQL
+- 💡 研究方向 / Research interest:  
+  Reinforcement Learning（强化学习）+ Adaptive Map Services（自适应地图）+ Dynamic Routing（动态路径调度）
+- 📚 正在开始构建属于自己的 GitHub 内容 & 准备 SCI 论文  
+  Starting to build GitHub content & preparing for SCI publication
+- 🌏 希望在日本继续深造或工作  
+  Seeking further research or work opportunities in Japan
 
 ---
 
+### 🧰 My Tech Stack / 技术栈
 
-### 🧰 My Tech Stack / 技能栈
-
-#### 🖥️ 语言 & 框架
+#### 🖥️ Languages & Frameworks / 编程语言与框架
 
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
@@ -30,7 +34,7 @@
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-003B57?logo=mysql&logoColor=white)
 
-#### 🛠️ 开发环境 & 工具
+#### 🔧 Development Tools / 开发工具
 
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white)
@@ -39,40 +43,43 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 
-#### 🧪 数据科学工具
+#### 🧪 Data Science Tools / 数据科学工具
 
 ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?logo=anaconda&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
 ![Colab](https://img.shields.io/badge/-Colab-F9AB00?logo=googlecolab&logoColor=black)
 
+---
+
+### 🎯 Goals / 我的目标
+
+- 📘 上传课程笔记、毕业项目、研究心得  
+  Upload course notes, research projects, and insights
+- 🌏 建立个人品牌（博客 / 作品集 / LinkedIn）  
+  Build personal brand (Blog / Portfolio / LinkedIn)
+- 📄 撰写强化学习论文，目标 SCI 期刊  
+  Submit reinforcement learning papers to SCI journals
+- 🤝 寻找合作机会：AI × Web × 地图 × 医疗 × 音乐  
+  Seek collaborations in AI × Web × Map Services × Healthcare × Music
 
 ---
 
-### 🔍 GitHub Stats
+### 📈 GitHub Stats / 统计图表
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=brcheungdev&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brcheungdev&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-### 🎯 Goals
-
-- 📘 完善所有毕业作品与实战项目上传整理
-- 🌏 增强个人品牌形象（Blog / Portfolio / LinkedIn）
-- 📄 撰写强化学习科研文章，投稿 SCI
-- 🤝 寻找未来合作机会：AI × Web × 教育
-
----
-
-### 📫 联系我
+### 📫 Contact Me / 联系方式
 
 - 📮 Email: `brcheungdev@gmail.com`
-- 🏫 Blog: 
 - 🐱 GitHub: [brcheungdev](https://github.com/brcheungdev)
+- 🌐 Blog / Portfolio: 暂无（Coming Soon）
 
 ---
 
