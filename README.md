@@ -90,3 +90,18 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=brcheungdev&label=Profile+Views&color=blue&style=flat" alt="visitors"/>
 </p>
+
+<details open>
+  <summary>中文 / Chinese</summary>
+
+- 我是专注 **RL + 自适应地图 + 动态路由** 的工程师。
+- 目前在整理课程项目与研究笔记，欢迎交流合作。
+
+</details>
+
+<details>
+  <summary>English</summary>
+
+- Engineer focusing on **RL + Adaptive Maps + Dynamic Routing**.
+- Currently organizing course projects & research notes. Open to collaboration.
+</details>
