@@ -1,8 +1,4 @@
-
-
-
-<h2 align="center">Hi there 👋</h2>
-<h2 align="center">I'm brcheung</h2>
+<h2 align="center">Hi there 👋   I'm brcheung</h2>
 <p align="center">Creative developer passionate about new tech</p>
 
 <br>
