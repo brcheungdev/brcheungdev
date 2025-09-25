@@ -1,15 +1,15 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&multiline=true&height=80&lines=Hi+I'm+brcheung;IT+Engineer+%7C+RL+Researcher+%7C+Creative+Dev;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-</p>
+
 
 
 <h2 align="center">Hi there 👋</h2>
 <h2 align="center">I'm brcheung</h2>
 <p align="center">Creative developer passionate about new tech</p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&multiline=true&height=80&lines=Hi+I'm+brcheung;IT+Engineer+%7C+RL+Researcher+%7C+Creative+Dev;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</p>
 
-<h3 align="center">🪄 About Me / 自我介绍</h3>
+<h3 align="center">🪄 About Me </h3>
 
 <p align="center">
 🏫 信息技术硕士（KCGI） / M.S. in IT from Kyoto College of Graduate Studies for Informatics<br>
@@ -19,7 +19,7 @@
 🌏 未来望在日本深造或工作 / Seeking research or work opportunities in Japan
 </p>
 
----
+
 
 <h3 align="center">🔧 My Tech Stack </h3>
 
@@ -55,7 +55,7 @@
 <img src="https://img.shields.io/badge/-Colab-F9AB00?logo=googlecolab&logoColor=black"/>
 </p>
 
----
+
 
 <h3 align="center">🎯 Goals </h3>
 
@@ -66,7 +66,7 @@
 🧱 寻找合作机会 / Seek collaborations in AI × Web × Map × Medical × Music
 </p>
 
----
+
 
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
@@ -76,7 +76,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brcheungdev&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
----
+
 
 <h3 align="center">📢 Contact</h3>
 <p align="center">
@@ -85,7 +85,7 @@
 🌐 Blog / Portfolio: <i>Coming soon...</i>
 </p>
 
----
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=brcheungdev&label=Profile+Views&color=blue&style=flat" alt="visitors"/>
 </p>
