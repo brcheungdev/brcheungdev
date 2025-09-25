@@ -1,15 +1,20 @@
-<h2 align="center">   <em>brcheung</em></h2>
-<!-- Terminal Style Wordmark -->
-<svg width="460" height="96" viewBox="0 0 460 96" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="brcheung terminal logo">
-  <rect x="0" y="0" width="460" height="96" rx="14" fill="#0D1117"/>
-  <text x="20" y="60"
-        font-family="JetBrains Mono, Fira Code, Consolas, Menlo, monospace"
-        font-size="36"
-        font-weight="600"
-        fill="#00FF7F">
-    $ brcheung_
+<!-- Outline Stroke Wordmark -->
+<svg width="460" height="90" viewBox="0 0 460 90" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="brcheung outline logo">
+  <rect width="100%" height="100%" fill="transparent"/>
+  <text x="2" y="64"
+        font-family="Segoe UI, Helvetica Neue, Arial, sans-serif"
+        font-size="52"
+        font-weight="800"
+        fill="none"
+        stroke="#3B82F6"
+        stroke-width="2.2"
+        stroke-linejoin="round">
+    brcheung
   </text>
 </svg>
+
+<h2 align="center">   <em>brcheung</em></h2>
+
 
 <p align="center">Creative developer passionate about new tech</p>
 Hi there 👋
