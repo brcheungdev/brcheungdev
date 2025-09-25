@@ -1,6 +1,6 @@
-<h2 align="center">Hi there 👋   I'm brcheung</h2>
+<h2 align="center">   <em>brcheung</em></h2>
 <p align="center">Creative developer passionate about new tech</p>
-
+Hi there 👋
 <br>
 <p align="center">
   <img
