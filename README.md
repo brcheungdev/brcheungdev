@@ -10,9 +10,7 @@
     alt="Typing SVG"
   />
 </p>
-
-
-
+<br><br>
 <h3 align="center">🪄 About Me </h3>
 
 <p align="center">
@@ -22,11 +20,9 @@
 📚 正在维护 GitHub 个人内容，并准备 SCI 论文 / Building GitHub content & preparing SCI publications<br>
 🌏 未来望在日本深造或工作 / Seeking research or work opportunities in Japan
 </p>
-
-
-
+<br><br>
 <h3 align="center">🔧 My Tech Stack </h3>
-
+<br>
 <p align="center">
 <b>💻 Languages & Frameworks </b><br>
 
@@ -41,7 +37,7 @@
 <img src="https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white"/>
 <img src="https://img.shields.io/badge/-SQL-003B57?logo=mysql&logoColor=white"/>
 </p>
-
+<br>
 <p align="center">
 <b>🚧 Development Tools </b><br>
 <img src="https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white"/>
@@ -51,7 +47,7 @@
 <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white"/>
 </p>
-
+<br>
 <p align="center">
 <b>🤕 Data Science Tools </b><br>
 <img src="https://img.shields.io/badge/-Anaconda-44A833?logo=anaconda&logoColor=white"/>
@@ -60,7 +56,7 @@
 </p>
 
 
-
+<br><br>
 <h3 align="center">🎯 Goals </h3>
 
 <p align="center">
@@ -71,7 +67,7 @@
 </p>
 
 
-
+<br><br>
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=brcheungdev&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -81,7 +77,7 @@
 </p>
 
 
-
+<br><br>
 <h3 align="center">📢 Contact</h3>
 <p align="center">
 📩 Email: <code>brcheungdev@gmail.com</code><br>
