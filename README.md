@@ -5,13 +5,14 @@
 <h2 align="center">I'm brcheung</h2>
 <p align="center">Creative developer passionate about new tech</p>
 
-<hr>
+<br>
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&multiline=true&height=90&size=30&font=JetBrains+Mono&duration=2500&pause=1200&color=36BCF7&lines=Hi+I'm+brcheung;IT+Engineer+%7C+RL+Researcher+%7C+Creative+Dev;Welcome+to+my+GitHub+Profile!"
+    src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&multiline=true&width=900&height=100&size=28&lines=Hi+I'm+brcheung;IT+Engineer+%7C+RL+Researcher+%7C+Creative+Dev;Welcome+to+my+GitHub+Profile!"
     alt="Typing SVG"
   />
 </p>
+
 
 
 <h3 align="center">🪄 About Me </h3>
