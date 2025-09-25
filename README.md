@@ -90,12 +90,6 @@
 </p>
 <br>
 <h2 align="center"></h2>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=brcheungdev&label=Profile+Views&color=blue&style=flat" alt="visitors"/>
-</p>
-
-
-
 <!--日语区-->
 <details>
   <summary><strong>日本語 / Japanese（クリックで開く）</strong></summary>
@@ -124,9 +118,12 @@
     <li>Blog / Portfolio：準備中。。</li>
   </ul>
 </details>
-<p align="center">
+<!--日语区end-->
 <br>
-<img src="https://img.shields.io/badge/-Anaconda-44A833?logo=anaconda&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Colab-F9AB00?logo=googlecolab&logoColor=black"/>
+<h2 align="center"></h2>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=brcheungdev&label=Profile+Views&color=blue&style=flat" alt="visitors"/>
 </p>
+
+
+
