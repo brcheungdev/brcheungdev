@@ -4,7 +4,7 @@
 <br>
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&multiline=true&width=900&height=150&size=28&duration=1500&pause=500&repeat=false&lines=Hi+I'm+brcheung;IT+Engineer+%7C+RL+Researcher+%7C+Creative+Dev;Welcome+to+my+GitHub+Profile!"
+    src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&multiline=true&width=900&height=150&font=Fira+Code&size=28&duration=1500&pause=500&repeat=false&lines=Hi+I'm+brcheung;IT+Engineer+%7C+RL+Researcher+%7C+Creative+Dev;Welcome+to+my+GitHub+Profile!"
     alt="Typing SVG"
   />
 </p>
