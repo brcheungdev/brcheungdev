@@ -2,9 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&multiline=true&height=80&lines=Hi+I'm+brcheung;IT+Engineer+%7C+RL+Researcher+%7C+Creative+Dev;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=brcheungdev&label=Profile+Views&color=blue&style=flat" alt="visitors"/>
-</p>
 
 <h2 align="center">Hi there 👋</h2>
 <h2 align="center">I'm brcheung</h2>
@@ -89,3 +86,6 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=brcheungdev&label=Profile+Views&color=blue&style=flat" alt="visitors"/>
+</p>
