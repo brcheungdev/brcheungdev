@@ -88,8 +88,8 @@
 🐱 GitHub: <a href="https://github.com/brcheungdev">brcheungdev</a><br>
 🌐 Blog / Portfolio: <i>Coming soon...</i>
 </p>
-
-
+<br><br><br>
+<h2 align="center"></h2>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=brcheungdev&label=Profile+Views&color=blue&style=flat" alt="visitors"/>
 </p>
