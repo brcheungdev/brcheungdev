@@ -85,7 +85,7 @@
 <h3 align="center">📢 Contact</h3>
 <p align="center">
 📩 Email: <code>brcheungdev@gmail.com</code><br>
-🐱 GitHub: <a href="https://github.com/brcheungdev">brcheungdev</a><br>
+🐱 GitHub: <a href="https://github.com/brcheungdev"><em>brcheungdev</em></a><br>
 🌐 Blog / Portfolio: <i>Coming soon...</i>
 </p>
 <br><br><br>
