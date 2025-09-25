@@ -11,7 +11,9 @@
   />
 </p>
 
-<h3 align="center">🪄 About Me </h3>
+
+<details open>
+  <summary><h3 align="center">🪄 About Me </h3></summary>
 
 <p align="center">
 🏫 信息技术硕士（KCGI） / M.S. in IT from Kyoto College of Graduate Studies for Informatics<br>
@@ -20,7 +22,10 @@
 📚 正在维护 GitHub 个人内容，并准备 SCI 论文 / Building GitHub content & preparing SCI publications<br>
 🌏 未来望在日本深造或工作 / Seeking research or work opportunities in Japan
 </p>
-<br>
+
+</details><br>
+
+
 <h3 align="center">🔧 My Tech Stack </h3>
 
 <p align="center">
@@ -91,13 +96,7 @@
   <img src="https://komarev.com/ghpvc/?username=brcheungdev&label=Profile+Views&color=blue&style=flat" alt="visitors"/>
 </p>
 
-<details open>
-  <summary>中文 / Chinese</summary>
 
-- 我是专注 **RL + 自适应地图 + 动态路由** 的工程师。
-- 目前在整理课程项目与研究笔记，欢迎交流合作。
-
-</details>
 
 <details>
   <summary>English</summary>
