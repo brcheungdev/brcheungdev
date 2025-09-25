@@ -64,6 +64,8 @@
 
 <p align="center">
 📘 上传课程笔记和研究成果 / Upload course notes & research insights<br>
+  ### ⏳ Progress<br>
+████░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 10% – Uploading projects & notes<br>
 🌏 打造个人品牌 / Build personal brand (Blog / Portfolio / LinkedIn)<br>
 📄 投稿 SCI / Submit SCI-level papers<br>
 🧱 寻找合作机会 / Seek collaborations in AI × Web × Map × Medical × Music
