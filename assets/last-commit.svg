@@ -1,12 +1,10 @@
-<svg width="720" height="180" viewBox="0 0 720 180" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Last commit">
-  <!-- 背景卡片 -->
-  #!/usr/bin/env bash
+#!/usr/bin/env bash
 set -euo pipefail
 
 # 取最后一次提交时间（JST）
-DATE_JST=2025-09-26
-TIME_JST=09:03
-DOW_JST=Fri  # Mon/Tue...
+DATE_JST=$(TZ=Asia/Tokyo git log -1 --date='format:%Y-%m-%d' --format='%cd')
+TIME_JST=$(TZ=Asia/Tokyo git log -1 --date='format:%H:%M' --format='%cd')
+DOW_JST=$(TZ=Asia/Tokyo git log -1 --date='format:%a'   --format='%cd')  # Mon/Tue...
 
 mkdir -p assets
 
@@ -37,9 +35,9 @@ cat > assets/last-commit.svg <<EOF
     </text>
 
     <text x="20" y="80" font-family="JetBrains Mono, Fira Code, Menlo, Consolas, monospace"
-          font-size="28" font-weight="800" fill="#E6EDF3">2025-09-26</text>
+          font-size="28" font-weight="800" fill="#E6EDF3">${DATE_JST}</text>
     <text x="20" y="110" font-family="JetBrains Mono, Fira Code, Menlo, Consolas, monospace"
-          font-size="16" fill="#9AA4AE">Fri</text>
+          font-size="16" fill="#9AA4AE">${DOW_JST}</text>
   </g>
 
   <!-- 右侧时间 -->
@@ -49,10 +47,11 @@ cat > assets/last-commit.svg <<EOF
       Time (HH:MM)
     </text>
     <text x="24" y="108" font-family="JetBrains Mono, Fira Code, Menlo, Consolas, monospace"
-          font-size="62" font-weight="800" fill="url(#accent)">09:03</text>
+          font-size="62" font-weight="800" fill="url(#accent)">${TIME_JST}</text>
   </g>
 
   <text x="24" y="170" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" fill="#9AA4AE">
     Updated on push · Asia/Tokyo (UTC+9)
   </text>
 </svg>
+EOF
