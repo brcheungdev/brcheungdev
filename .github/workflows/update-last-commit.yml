@@ -5,7 +5,7 @@ on:
     branches: ["**"]
   workflow_dispatch: {}  # 允许在 Actions 面板手动触发
   schedule:
-    - cron: "0 */6 * * *"   # 兜底：每 6 小时也更新一次（可改 */2、*/12 等）
+    - cron: "0 */6 * * *"   # 兜底：每 6 小时更新一次（按需调整）
 
 permissions:
   contents: write
@@ -14,22 +14,57 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout repo
         uses: actions/checkout@v4
         with:
           fetch-depth: 0   # 需要完整历史获取最后一次提交时间
 
-      - name: Generate SVG
+      # 生成 SVG
+      - name: Generate last-commit.svg
         run: bash scripts/gen-last-commit.sh
 
-      - name: Commit changes if any
+      # 若 SVG 有变化则提交
+      - name: Commit SVG if changed
         run: |
-          if [[ -n "$(git status --porcelain)" ]]; then
+          if [[ -n "$(git status --porcelain assets/last-commit.svg)" ]]; then
             git config user.name  "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
             git add assets/last-commit.svg
             git commit -m "chore: update last-commit.svg"
             git push
           else
-            echo "No changes"
+            echo "No SVG changes"
+          fi
+
+      # 用时间戳给 README 中的图片地址加 ?v=xxx（若已有 ?v= 则替换数值）
+      - name: Bust image cache in README
+        run: |
+          set -euo pipefail
+          ts="$(TZ=Asia/Tokyo date +%Y%m%d-%H%M%S)"   # 也可用: date -u +%s
+
+          # 如果 README 里已经有 ?v=，直接替换其值
+          if grep -qE 'assets/last-commit\.svg\?v=' README.md; then
+            sed -i -E "s#(assets/last-commit\.svg\?v=)[0-9A-Za-z_-]+#\1${ts}#g" README.md
+          else
+            # 没有 ?v= 的情况：在路径后自动追加 ?v=<ts>
+            # 匹配引号，保证不破坏 HTML 属性
+            sed -i -E "s#(assets/last-commit\.svg)(\"|')#\1?v=${ts}\2#g" README.md
+          fi
+
+          # 如果 README 没有引用这张图片，什么都不做
+          if ! grep -qE 'assets/last-commit\.svg' README.md; then
+            echo "README does not reference assets/last-commit.svg; skipping cache-bust"
+            exit 0
+          fi
+
+      - name: Commit README if changed
+        run: |
+          if [[ -n "$(git status --porcelain README.md)" ]]; then
+            git config user.name  "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "chore: bump cache-buster for last-commit.svg"
+            git push
+          else
+            echo "No README changes"
           fi
