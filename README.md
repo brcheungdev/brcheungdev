@@ -120,7 +120,7 @@
   </ul>
 </details>
 <!--日语区end-->
-<img src="assets/last-commit.svg?v=2" width="360" alt="Last Commit (JST)">
+<img src="assets/last-commit.svg?v=3" width="360" alt="Last Commit (JST)">
 
 <h2 align="center"></h2>
 <p align="center">
