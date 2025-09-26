@@ -126,6 +126,7 @@
   <img src="https://komarev.com/ghpvc/?username=brcheungdev&label=Profile+Views&color=blue&style=flat" alt="visitors"/>
 </p>
 <!-- 电子日历样式：最后提交时间（JST） -->
-<p align="left">
-  <img src="./assets/last-commit.svg" alt="Last Commit (JST)" width="360">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/brcheungdev/brcheungdev/main/assets/logo.svg" alt="brcheung logo" width="420">
+
 </p>
