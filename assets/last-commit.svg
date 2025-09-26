@@ -5,7 +5,7 @@ set -euo pipefail
 
 # 取最后一次提交时间（JST）
 DATE_JST=2025-09-26
-TIME_JST=09:00
+TIME_JST=09:03
 DOW_JST=Fri  # Mon/Tue...
 
 mkdir -p assets
@@ -49,7 +49,7 @@ cat > assets/last-commit.svg <<EOF
       Time (HH:MM)
     </text>
     <text x="24" y="108" font-family="JetBrains Mono, Fira Code, Menlo, Consolas, monospace"
-          font-size="62" font-weight="800" fill="url(#accent)">09:00</text>
+          font-size="62" font-weight="800" fill="url(#accent)">09:03</text>
   </g>
 
   <text x="24" y="170" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" fill="#9AA4AE">
