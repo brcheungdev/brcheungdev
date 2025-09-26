@@ -1,28 +1,29 @@
 <!-- brcheung专用 -->
-<svg width="600" height="120" viewBox="0 0 600 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="brcheung outline italic logo moving">
+
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="100%" height="120"
+     viewBox="0 0 600 120"
+     preserveAspectRatio="xMinYMid meet"
+     role="img" aria-label="brcheung logo once moving">
   <rect width="100%" height="100%" fill="transparent"/>
-  
-  <!-- 父级分组：控制来回移动 -->
   <g>
     <animateTransform attributeName="transform"
                       type="translate"
                       values="0 0; 160 0; 0 0"
                       keyTimes="0; 0.5; 1"
                       dur="8s"
-                      repeatCount="indefinite" />
-    <!-- logo.svg文本 -->
+                      begin="0s"
+                      repeatCount="1"
+                      fill="freeze"/>
     <g transform="translate(4,10) skewX(-12)">
       <text x="0" y="70"
             font-family="Segoe UI, Helvetica Neue, Arial, sans-serif"
-            font-size="58"
-            font-weight="800"
-            font-style="italic"
-            fill="none"
-            stroke="#3B82F6"
-            stroke-width="2.4"
-            stroke-linejoin="round">
+            font-size="58" font-weight="800" font-style="italic"
+            fill="none" stroke="#3B82F6" stroke-width="2.4" stroke-linejoin="round">
         brcheung
       </text>
     </g>
   </g>
 </svg>
+
