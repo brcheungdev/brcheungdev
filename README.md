@@ -75,8 +75,14 @@
 <p align="center">
  上传课程笔记和研究成果 / Upload course notes & research insights<br>
 ██░░░░░░░░░░░░░░░░ 10% – Uploading projects & notes<br>
+</p>
+<p align="center">
  打造个人品牌 / Build personal brand (Blog / Portfolio / LinkedIn)<br>
+</p>
+<p align="center">
  投稿 SCI / Submit SCI-level papers<br>
+</p>
+<p align="center">
  寻找合作机会 / Seek collaborations in AI × Web × Map × Medical × Music
 </p>
 
@@ -99,8 +105,12 @@
 <br>
 <h3 align="center"> Contact</h3>
 <p align="center">
- Email: <code>brcheungdev@gmail.com</code><br>
- GitHub: <a href="https://github.com/brcheungdev"><em>brcheungdev    </em></a><br>
+ Email: <code>brcheungdev@gmail.com</code>
+</p>
+<p align="center">
+ GitHub: <a href="https://github.com/brcheungdev"><em>brcheungdev    </em></a>
+</p>
+<p align="center">
  Blog / Portfolio: <i>Coming soon...</i>
 </p>
 <br><br>
