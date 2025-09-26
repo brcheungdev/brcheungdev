@@ -94,11 +94,26 @@
 <br>
 <h3 align="center"> GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brcheungdev&show_icons=true&hide_border=true&bg_color=30,1A80AE,164A8A,0A1E33&title_color=E6F1FF&text_color=C9D1D9&icon_color=E6F1FF&v=6" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=brcheungdev&show_icons=true
+&theme=transparent&bg_color=00000000
+&hide_border=false&border_color=263043&border_radius=12
+&title_color=E6EDF3&text_color=C9D1D9&icon_color=36BCF7
+&rank_icon=github&include_all_commits=true
+&card_width=500&v=6"
+    alt="GitHub Stats" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brcheungdev&layout=compact&hide_border=true&bg_color=30,1E90C2,164A8A,0A1E33&title_color=E6F1FF&text_color=C9D1D9&v=5" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=brcheungdev&layout=compact
+&theme=transparent&bg_color=00000000
+&hide_border=false&border_color=263043&border_radius=12
+&title_color=E6EDF3&text_color=C9D1D9
+&card_width=500&langs_count=8&v=6"
+    alt="Top Languages" />
 </p>
+
 
 
 <br>
