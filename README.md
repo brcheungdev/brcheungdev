@@ -94,10 +94,10 @@
 <br>
 <h3 align="center"> GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brcheungdev&show_icons=true&hide_border=true&bg_color=30,0A2540,0B3A71&title_color=E6F1FF&text_color=E6EDF3&icon_color=E6F1FF&v=3" />
+  <img src="https://github-readme-stats.vercel.app/api?username=brcheungdev&show_icons=true&hide_border=true&bg_color=20,0B1020,1E3A8A,36BCF7&title_color=FFFFFF&text_color=E6EDF3&icon_color=FFFFFF&v=3" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brcheungdev&layout=compact&hide_border=true&bg_color=30,0A2540,0B3A71&title_color=E6F1FF&text_color=E6EDF3&v=3" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brcheungdev&layout=compact&hide_border=true&bg_color=20,0B1020,1E3A8A,36BCF7&title_color=FFFFFF&text_color=E6EDF3&v=3" />
 </p>
 
 
