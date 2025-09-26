@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/text-moving.svg?v=1" alt="Moving Logo" width="900">
+  <img src="assets/assets/text-moving.svg?v=1" alt="Moving Logo" width="900">
 </p>
 
 
