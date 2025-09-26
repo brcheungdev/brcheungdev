@@ -18,11 +18,20 @@
 
 <p align="center">
  信息技术硕士（KCGI） / M.S. in IT from Kyoto College of Graduate Studies for Informatics<br>
- 技能领域 / Skilled in: C, C++, Java, Python, HTML, CSS, JavaScript, SQL<br>
- 研究方向 / Research: Reinforcement Learning + Adaptive Map Services + Dynamic Routing<br>
- 正在维护 GitHub 个人内容，并准备 SCI 论文 / Building GitHub content & preparing SCI publications<br>
- 未来望在日本深造或工作 / Seeking research or work opportunities in Japan
-</p><br>
+</p>
+<p align="center">
+   技能领域 / Skilled in: C, C++, Java, Python, HTML, CSS, JavaScript, SQL<br>
+</p>
+<p align="center">
+  研究方向 / Research: Reinforcement Learning + Adaptive Map Services + Dynamic Routing<br>
+</p>
+<p align="center">
+  正在维护 GitHub 个人内容，并准备 SCI 论文 / Building GitHub content & preparing SCI publications<br>
+</p>
+<p align="center">
+  未来望在日本深造或工作 / Seeking research or work opportunities in Japan
+</p>
+<br>
 
 
 <h3 align="center"> My Tech Stack </h3>
@@ -70,6 +79,8 @@
  投稿 SCI / Submit SCI-level papers<br>
  寻找合作机会 / Seek collaborations in AI × Web × Map × Medical × Music
 </p>
+
+<br>
 <p align="center">
   <img src="assets/assets/text-moving.svg?v=1" alt="Moving Logo" width="900">
 </p>
