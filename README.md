@@ -29,7 +29,7 @@
   正在维护 GitHub 个人内容，并准备 SCI 论文 / Building GitHub content & preparing SCI publications<br>
 </p>
 <p align="center">
-  未来望在日本深造或工作 / Seeking research or work opportunities in Japan
+  未来望在日本工作和读博 / Aiming to work in Japan and pursue a Ph.D.
 </p>
 <br>
 
