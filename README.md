@@ -89,8 +89,8 @@
 🐱 GitHub: <a href="https://github.com/brcheungdev"><em>brcheungdev    </em></a><br>
 🌐 Blog / Portfolio: <i>Coming soon...</i>
 </p>
-<br>
-<h2 align="center"></h2>
+<br><br>
+
 <!--日语区-->
 <details>
   <summary><strong>日本語 / Japanese（クリックで開く）</strong></summary>
