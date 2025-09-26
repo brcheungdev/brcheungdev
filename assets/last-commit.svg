@@ -1,22 +1,58 @@
-#!/usr/bin/env bash
+<svg width="720" height="180" viewBox="0 0 720 180" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Last commit">
+  <!-- 背景卡片 -->
+  #!/usr/bin/env bash
 set -euo pipefail
 
 # 取最后一次提交时间（JST）
-DATE_JST=$(TZ=Asia/Tokyo git log -1 --date='format:%Y-%m-%d' --format='%cd')
-TIME_JST=$(TZ=Asia/Tokyo git log -1 --date='format:%H:%M' --format='%cd')
-DOW_JST=$(TZ=Asia/Tokyo git log -1 --date='format:%a'   --format='%cd')  # Mon/Tue...
+DATE_JST=2025-09-26
+TIME_JST=09:11
+DOW_JST=Fri  # Mon/Tue...
 
 mkdir -p assets
 
 cat > assets/last-commit.svg <<EOF
-<svg xmlns="http://www.w3.org/2000/svg" width="520" height="120" role="img" aria-label="Last commit (JST)">
-  <rect x="0" y="0" width="520" height="120" rx="14" fill="#0D1117" stroke="#263043" stroke-width="2"/>
-  <text x="20" y="40" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="600" fill="#9AA4AE">
-    LAST COMMIT (JST) · ${DOW_JST}
-  </text>
-  <text x="20" y="85" font-family="JetBrains Mono, Menlo, Consolas, monospace"
-        font-size="34" font-weight="800" fill="#36BCF7">
-    ${DATE_JST}  ${TIME_JST}
+<svg width="720" height="180" viewBox="0 0 720 180" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Last commit">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#151B23"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#36BCF7"/>
+      <stop offset="100%" stop-color="#7C4DFF"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="2" stdDeviation="4" flood-color="#000" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+
+  <rect x="0" y="0" width="720" height="180" rx="20" fill="url(#bg)" filter="url(#shadow)"/>
+
+  <!-- 左侧日期块 -->
+  <g transform="translate(24,24)">
+    <rect x="0" y="0" width="260" height="132" rx="16" fill="#0B1220" stroke="#263043" stroke-width="2"/>
+    <rect x="0" y="0" width="260" height="36" rx="16" fill="url(#accent)"/>
+    <text x="130" y="24" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF">
+      LAST COMMIT (JST)
+    </text>
+
+    <text x="20" y="80" font-family="JetBrains Mono, Fira Code, Menlo, Consolas, monospace"
+          font-size="28" font-weight="800" fill="#E6EDF3">2025-09-26</text>
+    <text x="20" y="110" font-family="JetBrains Mono, Fira Code, Menlo, Consolas, monospace"
+          font-size="16" fill="#9AA4AE">Fri</text>
+  </g>
+
+  <!-- 右侧时间 -->
+  <g transform="translate(304,24)">
+    <rect x="0" y="0" width="392" height="132" rx="16" fill="#0B1220" stroke="#263043" stroke-width="2"/>
+    <text x="24" y="48" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#9AA4AE">
+      Time (HH:MM)
+    </text>
+    <text x="24" y="108" font-family="JetBrains Mono, Fira Code, Menlo, Consolas, monospace"
+          font-size="62" font-weight="800" fill="url(#accent)">09:11</text>
+  </g>
+
+  <text x="24" y="170" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" fill="#9AA4AE">
+    Updated on push · Asia/Tokyo (UTC+9)
   </text>
 </svg>
-EOF
