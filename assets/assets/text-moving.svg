@@ -15,7 +15,7 @@
       attributeName="transform"
       type="translate"
       values="0 0; -700 0"
-      dur="12s"
+      dur="22s"
       repeatCount="indefinite" />
   </g>
 </svg>
