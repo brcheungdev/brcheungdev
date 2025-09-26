@@ -94,12 +94,21 @@
 <br>
 <h3 align="center"> GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brcheungdev&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=brcheungdev&show_icons=true&theme=transparent&bg_color=00000000&hide_border=true&title_color=36BCF7&text_color=E6EDF3&icon_color=36BCF7&v=2"
+    alt="GitHub Stats"
+  />
 </p>
+
 <br>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brcheungdev&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=brcheungdev&layout=compact&theme=transparent&bg_color=00000000&hide_border=true&title_color=36BCF7&text_color=E6EDF3&v=2"
+    alt="Top Languages"
+  />
 </p>
+
 
 
 <br>
