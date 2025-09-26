@@ -94,20 +94,12 @@
 <br>
 <h3 align="center"> GitHub Stats</h3>
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=brcheungdev&show_icons=true&theme=transparent&bg_color=00000000&hide_border=true&title_color=36BCF7&text_color=E6EDF3&icon_color=36BCF7&v=2"
-    alt="GitHub Stats"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=brcheungdev&show_icons=true&hide_border=true&bg_color=30,0A2540,0B3A71&title_color=E6F1FF&text_color=E6EDF3&icon_color=E6F1FF&v=3" />
 </p>
-
-<br>
-
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=brcheungdev&layout=compact&theme=transparent&bg_color=00000000&hide_border=true&title_color=36BCF7&text_color=E6EDF3&v=2"
-    alt="Top Languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brcheungdev&layout=compact&hide_border=true&bg_color=30,0A2540,0B3A71&title_color=E6F1FF&text_color=E6EDF3&v=3" />
 </p>
+
 
 
 
