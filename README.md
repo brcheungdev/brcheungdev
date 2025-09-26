@@ -121,7 +121,7 @@
 </details>
 <!--日语区end-->
 <h2 align="center"></h2>
-<img src="assets/last-commit.svg?v=3" width="360" alt="Last Commit (JST)">
+<img align="center" src="assets/last-commit.svg?v=3" width="360" alt="Last Commit (JST)">
 
 
 <p align="center">
