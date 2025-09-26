@@ -1,20 +1,21 @@
-<!-- brcheung专用  -->
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="150" viewBox="0 0 900 150" role="img" aria-label="moving logo">
-
-  <!-- 整组文字：做左右来回移动 -->
+<!-- brcheung专用 跑马灯效果-->
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="150" viewBox="0 0 900 150" role="img" aria-label="marquee logo">
+  <!-- 可调：文本总宽的估计值（影响从画布外进入/离开的距离）
+       这里用 ~700px 作为内容宽度的近似。需要更稳可改大/小。 -->
+  <!-- 从 -700 (左侧画布外) -> 900 (右侧画布外) 循环滚动 -->
   <g>
-    <!-- 往返移动：从 0 平移到 520 再回到 0，可按需调距离和时长 -->
     <animateTransform attributeName="transform"
                       type="translate"
-                      values="0 0; 520 0; 0 0"
-                      keyTimes="0; 0.5; 1"
-                      dur="8s"
+                      values="-700 0; 900 0"
+                      keyTimes="0; 1"
+                      dur="15s"               <!-- 速度：越大越慢，例如 12s、15s -->
                       repeatCount="indefinite" />
 
+      
     <text x="40" y="50"
           font-family="Fira Code, JetBrains Mono, Menlo, Consolas, monospace"
           font-size="28" font-weight="700" fill="#0F172A">
-      Hi there I'm brcheung
+      Hi! I'm brcheung
     </text>
 
     <text x="40" y="88"
@@ -30,3 +31,4 @@
     </text>
   </g>
 </svg>
+
