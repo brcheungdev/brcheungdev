@@ -1,4 +1,4 @@
-<img src="./assets/logo.svg" alt="brcheung logo" width="420">
+<img src="./assets/logo-moving.svg" alt="brcheung logo" width="420">
 <h2 align="center"></h2>
 
 
