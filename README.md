@@ -13,7 +13,7 @@
 
 
 
-<h3 align="center">🪄 About Me </h3>
+<h3 align="center"> About Me </h3>
 
 <p align="center">
  信息技术硕士（KCGI） / M.S. in IT from Kyoto College of Graduate Studies for Informatics<br>
@@ -24,7 +24,7 @@
 </p><br>
 
 
-<h3 align="center">🔧 My Tech Stack </h3>
+<h3 align="center"> My Tech Stack </h3>
 
 <p align="center">
 <b> Languages & Frameworks </b><br>
@@ -60,7 +60,7 @@
 
 
 <br>
-<h3 align="center">🎯 Goals </h3>
+<h3 align="center"> Goals </h3>
 
 <p align="center">
  上传课程笔记和研究成果 / Upload course notes & research insights<br>
