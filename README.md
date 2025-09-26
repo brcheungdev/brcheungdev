@@ -11,9 +11,7 @@
   />
 </p>
 
-<p align="center">
-  <img src="assets/assets/text-moving.svg?v=1" alt="Moving Logo" width="900">
-</p>
+
 
 
 <h3 align="center"> About Me </h3>
@@ -72,7 +70,9 @@
  投稿 SCI / Submit SCI-level papers<br>
  寻找合作机会 / Seek collaborations in AI × Web × Map × Medical × Music
 </p>
-
+<p align="center">
+  <img src="assets/assets/text-moving.svg?v=1" alt="Moving Logo" width="900">
+</p>
 
 <br>
 <h3 align="center"> GitHub Stats</h3>
