@@ -1,0 +1,32 @@
+<!-- brcheung专用  -->
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="150" viewBox="0 0 900 150" role="img" aria-label="moving logo">
+
+  <!-- 整组文字：做左右来回移动 -->
+  <g>
+    <!-- 往返移动：从 0 平移到 520 再回到 0，可按需调距离和时长 -->
+    <animateTransform attributeName="transform"
+                      type="translate"
+                      values="0 0; 520 0; 0 0"
+                      keyTimes="0; 0.5; 1"
+                      dur="8s"
+                      repeatCount="indefinite" />
+
+    <text x="40" y="50"
+          font-family="Fira Code, JetBrains Mono, Menlo, Consolas, monospace"
+          font-size="28" font-weight="700" fill="#0F172A">
+      Hi there I'm brcheung
+    </text>
+
+    <text x="40" y="88"
+          font-family="Fira Code, JetBrains Mono, Menlo, Consolas, monospace"
+          font-size="26" fill="#1F2937">
+      IT Engineer | RL Researcher | Creative Dev
+    </text>
+
+    <text x="40" y="126"
+          font-family="Fira Code, JetBrains Mono, Menlo, Consolas, monospace"
+          font-size="24" fill="#2563EB">
+      Welcome to my GitHub Profile!
+    </text>
+  </g>
+</svg>
