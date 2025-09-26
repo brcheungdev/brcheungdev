@@ -120,10 +120,9 @@
   </ul>
 </details>
 <!--日语区end-->
+<img src="assets/last-commit.svg?v=2" width="360" alt="Last Commit (JST)">
 
 <h2 align="center"></h2>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=brcheungdev&label=Profile+Views&color=blue&style=flat" alt="visitors"/>
 </p>
-
-<img src="assets/last-commit.svg?v=2" width="360" alt="Last Commit (JST)">
