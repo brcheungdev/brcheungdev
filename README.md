@@ -121,8 +121,9 @@
 </details>
 <!--日语区end-->
 <h2 align="center"></h2>
-<img align="center" src="assets/last-commit.svg?v=3" width="360" alt="Last Commit (JST)">
-
+<p align="center">
+<img src="assets/last-commit.svg?v=3" width="360" alt="Last Commit (JST)">
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=brcheungdev&label=Profile+Views&color=blue&style=flat" alt="visitors"/>
