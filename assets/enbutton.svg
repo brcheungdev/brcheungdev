@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="160" height="40" viewBox="0 0 160 40" role="img" aria-label="English">
-  <rect x="0.75" y="0.75" width="158.5" height="38.5" rx="20" ry="20"
-        fill="#0D1117" stroke="#263043" stroke-width="1.5"/>
-  <text x="80" y="25" text-anchor="middle"
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="40" viewBox="0 0 150 40" role="img" aria-label="English">
+  <rect x="0.75" y="0.75" width="148.5" height="38.5" rx="20" ry="20"
+        fill="transparent" stroke="#263043" stroke-width="1.5"/>
+  <text x="75" y="26" text-anchor="middle"
         font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700"
         fill="#36BCF7">English 🌐</text>
 </svg>
