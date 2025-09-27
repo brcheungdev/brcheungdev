@@ -12,12 +12,10 @@
 <br>
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&multiline=true&width=900&height=150&font=Fira+Code&size=28&duration=1500&pause=500&repeat=false&lines=Hi+there+I'm+brcheung;IT+Engineer+%7C+RL+Researcher+%7C+Creative+Dev;Welcome+to+my+GitHub+Profile!"
+    src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&multiline=true&width=900&height=150&font=Fira+Code&size=28&duration=1500&pause=500&repeat=false&lines=こんにちは、brcheung%20です;ITエンジニア%20%7C%20強化学習研究者%20%7C%20クリエイティブ開発者;私のGitHubプロフィールへようこそ！"
     alt="Typing SVG"
   />
 </p>
-
-
 
 
 <h3 align="center"> About Me </h3>
