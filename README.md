@@ -105,6 +105,13 @@
 
 
 <br>
+<h2 align="center"></h2>
+<p align="center">
+<img src="assets/last-commit.svg?v=20250928-002216" width="360" alt="Last Commit (JST)">
+</p>
+<br><br>
+
+
 <h3 align="center"> Contact</h3>
 <p align="center">
  Email: <code>brcheungdev@gmail.com</code>
@@ -115,42 +122,6 @@
 <p align="center">
  Blog / Portfolio: <i>Coming soon...</i>
 </p>
-<br><br>
-
-<!--日语区-->
-<details>
-  <summary><strong>日本語 / Japanese（クリックで開く）</strong></summary>
-
-  <h4>自己紹介</h4>
-  <ul>
-    <li>京都情報大学院大学（KCGI）で情報技術（IT）の修士を取得。</li>
-    <li>得意なプログラミング言語：C / C++ / Java / Python / HTML / CSS / JavaScript / SQL。</li>
-    <li>現在の研究内容：強化学習（Reinforcement Learning）／アダプティブ地図サービス（Adaptive Map Services）／動的経路最適化（Dynamic Routing）。</li>
-    <li>近況：GitHub の個人コンテンツを整備し、SCI 論文の準備を進めている。</li>
-    <li>希望：今後は日本での就職を目指すか、人工知能の博士課程への進学を考えている。</li>
-  </ul>
-
-  <h4>目標</h4>
-  <ul>
-    <li>授業ノートや研究成果をアップロードする。</li>
-    <li>個人ブランディングを強化する（Blog / Portfolio / LinkedIn）。</li>
-    <li>強化学習に関する論文を作成し、SCI 誌へ投稿する。</li>
-    <li>協業を希望する分野：AI × Web × 地図サービス × 医療 × 音楽。</li>
-  </ul>
-
-  <h4>連絡先</h4>
-  <ul>
-    <li>Email：<code>brcheungdev@gmail.com</code></li>
-    <li>GitHub：<a href="https://github.com/brcheungdev">brcheungdev</a></li>
-    <li>Blog / Portfolio：準備中。。</li>
-  </ul>
-</details>
-<!--日语区end-->
-<h2 align="center"></h2>
-<p align="center">
-<img src="assets/last-commit.svg?v=20250928-002216" width="360" alt="Last Commit (JST)">
-</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=brcheungdev&label=Profile+Views&color=blue&style=flat" alt="visitors"/>
 </p>
