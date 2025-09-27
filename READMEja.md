@@ -1,12 +1,10 @@
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
- 
+  <tr> 
     <td align="left" valign="middle">
       <img src="./assets/logo-moving.svg" alt="brcheung logo" width="420">
     </td>
-
     <td align="right" valign="middle">
-      <a href="#zh">中文</a> &nbsp;·&nbsp; <a href="#en">English</a>
+      <a href="#zh">English</a> &nbsp;·&nbsp; <a href="#en">English</a>
     </td>
   </tr>
 </table>
