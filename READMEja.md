@@ -3,7 +3,7 @@
 </p>
 <h2></h2>
 <p align="right">
-  <a href="#en"><img src="assets/enbutton.svg?v=1" alt="English" height="40"></a>
+  <a href="README.md"><img src="assets/enbutton.svg?v=1" alt="English" height="50"></a>
 </p>
 
 
