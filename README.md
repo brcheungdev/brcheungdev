@@ -105,13 +105,13 @@
 
 
 <br>
-<h2 align="center"></h2>
+
 <p align="center">
 <img src="assets/last-commit.svg?v=20250928-002416" width="360" alt="Last Commit (JST)">
 </p>
 <br><br>
 
-
+<h2 align="center"></h2>
 <h3 align="center"> Contact</h3>
 <p align="center">
  Email: <code>brcheungdev@gmail.com</code>
@@ -122,6 +122,7 @@
 <p align="center">
  Blog / Portfolio: <i>Coming soon...</i>
 </p>
+<br><br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=brcheungdev&label=Profile+Views&color=blue&style=flat" alt="visitors"/>
 </p>
