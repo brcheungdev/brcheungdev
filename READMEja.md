@@ -2,12 +2,10 @@
   <img src="./assets/logo-moving.svg" alt="brcheung logo" width="420">
 </p>
 <h2></h2>
-<p align="right">
+<p align="center">
   <a href="README.md"><img src="assets/enbutton.svg?v=1" alt="English" height="50"></a>
 </p>
-
-<h2></h2>
-
+<br>
 <p align="center">新技術に熱意を持ったクリエイティブ開発者</p>
 <br>
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&multiline=true&width=900&height=150&font=Fira+Code&size=28&duration=1500&pause=500&repeat=false&lines=Hi+there+I'm+brcheung;IT+Engineer+%7C+RL+Researcher+%7C+Creative+Dev;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" /> </p>
