@@ -1,6 +1,9 @@
 <img src="./assets/logo-moving.svg" alt="brcheung logo" width="420">
 <h2 align="center"></h2>
 
+<p align="center">
+  <a href="READMEja.md"><img src="assets/jabutton.svg?v=1" alt="Japan" height="50"></a>
+</p>
 
 <p align="center">Creative developer passionate about new tech</p>
 <br>
