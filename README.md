@@ -145,7 +145,7 @@
 <!--日语区end-->
 <h2 align="center"></h2>
 <p align="center">
-<img src="assets/last-commit.svg?v=20250927-213652" width="360" alt="Last Commit (JST)">
+<img src="assets/last-commit.svg?v=20250927-230723" width="360" alt="Last Commit (JST)">
 </p>
 
 <p align="center">
