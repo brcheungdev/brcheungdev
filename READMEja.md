@@ -10,15 +10,10 @@
 
 <p align="center">新技術に熱意を持ったクリエイティブ開発者</p>
 <br>
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&multiline=true&width=900&height=150&font=Fira+Code&size=28&duration=1500&pause=500&repeat=false&lines=こんにちは、brcheung%20です;ITエンジニア%20%7C%20強化学習研究者%20%7C%20クリエイティブ開発者;私のGitHubプロフィールへようこそ！"
-    alt="Typing SVG"
-  />
-</p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&multiline=true&width=900&height=150&font=Fira+Code&size=28&duration=1500&pause=500&repeat=false&lines=Hi+there+I'm+brcheung;IT+Engineer+%7C+RL+Researcher+%7C+Creative+Dev;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" /> </p>
 
 
-<h3 align="center"> About Me </h3>
+<h3 align="center"> 僕のこと </h3>
 
 <p align="center">
  京都情報大学院大学 情報技術修士（M.S. in IT）<br>
@@ -98,11 +93,13 @@
 <br>
 <h3 align="center"> GitHub 統計</h3>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=brcheungdev&show_icons=true&theme=transparent&bg_color=00000000&hide_border=false&border_color=263043&border_radius=12&title_color=E6EDF3&text_color=C9D1D9&icon_color=36BCF7&card_width=500&v=8" />
+  <img src="https://github-readme-stats.vercel.app/api?username=brcheungdev&show_icons=true&theme=transparent&bg_color=00000000&hide_border=false&border_color=263043&border_radius=12&title_color=E6EDF3&text_color=C9D1D9&icon_color=36BCF7&card_width=500&locale=ja&v=9" />
 </p>
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brcheungdev&layout=compact&theme=transparent&bg_color=00000000&hide_border=false&border_color=263043&border_radius=12&title_color=E6EDF3&text_color=C9D1D9&card_width=500&langs_count=8&v=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brcheungdev&layout=compact&theme=transparent&bg_color=00000000&hide_border=false&border_color=263043&border_radius=12&title_color=E6EDF3&text_color=C9D1D9&card_width=500&langs_count=8&locale=ja&v=9" />
 </p>
+
 
 
 <br>
