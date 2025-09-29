@@ -3,7 +3,7 @@
 </p>
 <h2></h2>
 <p align="center">
-  <a href="README.md"><img src="assets/enbutton.svg?v=1" alt="English" height="60"></a>
+  <a href="README.md"><img src="assets/enbutton.svg?v=1" alt="English" height="50" Width="100"></a>
 </p>
 <br>
 <p align="center">新技術に熱意を持ったクリエイティブ開発者</p>
