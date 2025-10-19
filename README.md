@@ -77,7 +77,7 @@
 
 <p align="center">
  上传课程笔记和研究成果 / Upload course notes & research insights<br>
-██░░░░░░░░░░░░░░░░ 10% – Uploading projects & notes<br>
+██████░░░░░░░░░░░░░░ 30% – Uploading projects & notes<br>
 </p>
 <p align="center">
  打造个人品牌 / Build personal brand (Blog / Portfolio / LinkedIn)<br>
