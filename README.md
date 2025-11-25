@@ -107,7 +107,7 @@
 <br>
 
 <p align="center">
-<img src="assets/last-commit.svg?v=20251125-033308" width="360" alt="Last Commit (JST)">
+<img src="assets/last-commit.svg?v=20251125-104510" width="360" alt="Last Commit (JST)">
 </p>
 <br><br>
 
